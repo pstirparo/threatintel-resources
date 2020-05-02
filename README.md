@@ -1,7 +1,7 @@
 # Threat Intelligence Resources
 Resources, tools and utilities about Threat Intelligence
 
-## ACH_template-v0.4.xlsx
+## ACH_template-v0.6.xlsx
 It's an excel sheet that implements the scoring and weighting methodology of the Analysis of Competing Hypotheses, more specifically the Weighted Inconsistency Counting algorithm. You can read more about it and a practical use case (WannaCry attribution) below:
 - https://isc.sans.edu/forums/diary/Analysis+of+Competing+Hypotheses+ACH+part+1/22460/
 - https://isc.sans.edu/forums/diary/Analysis+of+Competing+Hypotheses+WCry+and+Lazarus+ACH+part+2/22470/
