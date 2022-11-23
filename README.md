@@ -15,3 +15,8 @@ This started as a way to keep track and share a list of (mainly) books related t
 Feel free to add feedback/review on books in the list you have read and, of course, please suggest new ones via comment or directly to me (here on github or via Twitter @pstirparo)
 Please keep in mind that it is strictly related to the field of Threat Intelligence (which is more than just "cyber" :) ), not classical Security/DFIR.
 https://docs.google.com/spreadsheets/d/1zbneQKybdsxnOHxsl9B4wNGkSYKHbOTfNGW26hP4TJA/edit?usp=sharing
+
+## Threat Intelligence Requirements
+You can find the slides from the presentation "Your Requirements Are Not My Requirements" I gave at FIRST CTI Symposium in 2019 on what Intelligence Requirements are and how to develop them.
+- Slidedeck file: 201903-FIRST_CTI_Symp-Stirparo-CTI_Requirements.pdf
+- Accompanying blog post on SANS ISC: https://isc.sans.edu/diary/Defining+Threat+Intelligence+Requirements/21519
