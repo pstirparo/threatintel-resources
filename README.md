@@ -17,6 +17,6 @@ Please keep in mind that it is strictly related to the field of Threat Intellige
 https://docs.google.com/spreadsheets/d/1zbneQKybdsxnOHxsl9B4wNGkSYKHbOTfNGW26hP4TJA/edit?usp=sharing
 
 ## Threat Intelligence Requirements
-You can find the slides from the presentation "Your Requirements Are Not My Requirements" I gave at FIRST CTI Symposium in 2019 on what Intelligence Requirements are and how to develop them.
+You can find the slides from the presentation "Your Requirements Are Not My Requirements" I gave at FIRST CTI Symposium in 2019 and ENISA CTI 2020 on what Intelligence Requirements are and how to develop them.
 - Slidedeck file: 201903-FIRST_CTI_Symp-Stirparo-CTI_Requirements.pdf
 - Accompanying blog post on SANS ISC: https://isc.sans.edu/diary/Defining+Threat+Intelligence+Requirements/21519
