@@ -10,7 +10,7 @@ I have also made a shared Google Spreadsheet version of it, feel free to copy it
 https://docs.google.com/spreadsheets/d/1oKYQtVnro3IfNswnj-A5_diwkLcQq0y2VzuCnEKvZdE/edit?usp=sharing
 
 ## Threat Intelligence Reading List
-This started as a way to keep track and share a list of (mainly) books related to Threat Intelligence (mostly "cyber" but definitely not only), on different topics ranging from methodology, tradecraft, history of classical Intelligence, Structural Analytic Techiniques and Critical Thinking, Geopolitics/International Relations, etc., to more technical resources (books, papers and report) referring to "Cyber" TI.
+This started as a way to keep track and share a list of (mainly) books related to Threat Intelligence (mostly "cyber" but definitely not only), on different topics ranging from methodology, tradecraft, history of classical Intelligence, Structured Analytic Techiniques (SAT) and Critical Thinking, Geopolitics/International Relations, etc., to more technical resources (books, papers and report) referring to "Cyber" TI.
 
 Feel free to add feedback/review on books in the list you have read and, of course, please suggest new ones via comment or directly to me (here on github or via Twitter @pstirparo)
 Please keep in mind that it is strictly related to the field of Threat Intelligence (which is more than just "cyber" :) ), not classical Security/DFIR.
